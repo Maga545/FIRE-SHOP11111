@@ -1,0 +1,8 @@
+aiogram
+bs4
+pyQiwiP2P
+requests
+shutup
+pytelegrambotapi
+colorama
+telethon
